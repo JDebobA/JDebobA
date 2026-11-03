@@ -1,16 +1,29 @@
-## Hi there 👋
+# Денис Жабский
 
-<!--
-**JDebobA/JDebobA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Программист из Новосибирска. Учусь в НХТК по специальности «Основы информационных систем и программирования», выпуск в 2026 году.
 
-Here are some ideas to get you started:
+## Стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Языки:** Python, JavaScript, TypeScript, C#, HTML, CSS
+
+**Фреймворки:** Flask, NestJS, aiogram
+
+**Базы данных:** PostgreSQL, SQLite, Redis
+
+**ORM:** SQLAlchemy 2.0 (async), Prisma
+
+**Инструменты:** Docker, Docker Compose, Git, Linux, Playwright, APScheduler
+
+**Практики:** ООП, тестирование, JWT-авторизация, документация API в Swagger
+
+## Работа с ИИ
+
+- Использую нейросети как рабочий инструмент: для набросков кода, разбора ошибок, ускорения рутины и изучения новых технологий.
+- Не беру сгенерированный код вслепую: читаю, понимаю, что и зачем он делает, проверяю и дорабатываю под задачу.
+- Умею правильно писать промпты: ставлю чёткую цель, даю контекст и ограничения, замечаю, когда ответ неверный, и уточняю запрос.
+- Разбиваю большую задачу на небольшие шаги и решаю их с ИИ по очереди, проверяя результат каждого шага.
+
+## Связаться
+
+- Telegram: [@ch_jda](https://t.me/ch_jda)
+- Email: deniszabskij430@gmail.com
